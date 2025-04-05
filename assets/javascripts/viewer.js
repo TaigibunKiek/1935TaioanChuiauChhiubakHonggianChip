@@ -1,11 +1,11 @@
 (function () {
   // TODO edit
-  const baseUrl = '/scannedImgViewer';
+  const baseUrl = '/1935TaioanChuiauChhiubakHonggianChip';
   const dataFolderPath = '/chuliau';
-  const dataNamePrefix = '/TJTST1_';
+  const dataNamePrefix = '/1935TaioanChuiauChhiubakHonggianChip_Page_';
   const dataNameNumberCount = 3;
   const dataNameSuffix = '.jpg';
-  const lastPageNumber = 12;
+  const lastPageNumber = 250;
 
   let imgSources = [];
   const imgSourcesMin = 1;
